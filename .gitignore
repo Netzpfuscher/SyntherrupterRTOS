@@ -1,0 +1,7 @@
+Debug/
+.launches/
+Demo/
+Release/
+*.lnt
+.config/
+/Debug__GNU/
